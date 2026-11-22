@@ -5,7 +5,7 @@
 - くまもんとジャンケンします
 
 ## ③アプリのデプロイURL
-- https://toshikatsu-nakamura.github.io/html_name_00/
+- https://toshikatsu-nakamura.github.io/Janken/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: 今回なし
