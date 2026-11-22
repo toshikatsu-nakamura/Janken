@@ -1,0 +1,39 @@
+
+.janken {
+    display: flex;
+    justify-content: center;
+}
+
+.janken-box {
+    display: flex;
+    justify-content: center;
+}
+
+
+.kumamon {
+    margin-top: 50px;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.kumamon img {
+    width: 15%;
+    height: auto;
+}
+
+.kumamon h1 {
+    margin: 0;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* width: 80%; */
+    /* height: auto; */
+}
+
+.result {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
